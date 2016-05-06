@@ -1,0 +1,30 @@
+//
+//  MyPchFile.pch
+//  EducationalManagementSystem
+//
+//  Created by bever on 16/3/19.
+//  Copyright © 2016年 JustinLeding. All rights reserved.
+//
+
+#ifndef MyPchFile_pch
+#define MyPchFile_pch
+
+#import "CommonHeader.h"
+
+#import "DynamicViewController.h"
+#import "CourseSelectViewController.h"
+#import "FileDownloadViewController.h"
+#import "CourseViewController.h"
+
+#import "BaseNavigationController.h"
+#import "BaseTabbarController.h"
+
+#import "LeftViewController.h"
+#import "MMDrawerController.h"
+
+
+#import "loadDataFromJson.h"
+
+
+
+#endif /* MyPchFile_pch */
